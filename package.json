@@ -1,6 +1,6 @@
 {
   "name": "select-html-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "vuejs html select tag component. Allow using the value of the one as dependecy to another load some data. Ex. Country / State / City.",
   "author": {
   "name": "Flávio Silveira",
